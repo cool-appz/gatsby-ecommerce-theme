@@ -6,7 +6,7 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
 
   return {
     statusCode: 200,
-    body: "<@U04L9MD7AMS> Hello " 
+    body: "<@U04L9MD7AMS>: Inch guzes?" 
   };
 };
 
